@@ -1,4 +1,4 @@
-# CuddleHeros Demo Store
+# CuddleHeros Demo Website Store
 
 A demo storefront showing [TedPro](https://github.com/Hendrik-InfoSec/Ted-Pro)'s embeddable AI assistant running live on a real website.
 
