@@ -1,8 +1,8 @@
-# CuddleHeros Demo Website Store
+# CuddleHeros Store Demo-Website
 
 A demo storefront showing [TedPro](https://github.com/Hendrik-InfoSec/Ted-Pro)'s embeddable AI assistant running live on a real website.
 
-🔗 **Live demo:** open `index.html` in a browser, or visit the hosted version if deployed.
+🔗 **Live demo:** https://hendrik-infosec.github.io/cuddleheros-demo/
 
 ---
 
